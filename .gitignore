@@ -12,3 +12,5 @@
 /venv/
 domainlist.txt
 blacklist.txt
+/git-proxy
+/git-proxy.exe
